@@ -1,0 +1,6 @@
+[submodule "BookMyAppointment-Backend"]
+	path = BookMyAppointment-Backend
+	url = https://github.com/rohitkolapkar/BookMyAppointment-Backend.git
+[submodule "BookMyAppointment-Frontend-v2"]
+	path = BookMyAppointment-Frontend-v2
+	url = https://github.com/rohitkolapkar/BookMyAppointment-Frontend-v2.git
