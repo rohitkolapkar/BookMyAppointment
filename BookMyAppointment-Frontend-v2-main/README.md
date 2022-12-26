@@ -1,1 +1,0 @@
-# BookMyAppointment-Frontend-v2
