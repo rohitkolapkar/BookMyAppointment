@@ -1,0 +1,5 @@
+This app requires a specific node version=14
+https://nodejs.org/download/release/v14.0.0/
+
+Install angular cli
+npm i -g  @angular/cli@10.2.0
